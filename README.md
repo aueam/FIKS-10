@@ -6,9 +6,9 @@
 
 | úloha                  | kolo | bodů  |
 |------------------------|------|-------|
-| Euklidovská kabeláž    | 1.   | 8/10  |
+| Euklidovská kabeláž    | 1.   | 10/10 |
 | Network Abusal Storage | 1.   | 10/10 |
-| Meziuzelná Autorizace  | 1.   | 10/10 |
+| Meziuzelná Autorizace  | 1.   | 8/10  |
 | Bitva v paměti         | 2.   | 10/10 |
 | Navazování spojení     | 2.   |       |
 | Konfigurační řetězec   | 2.   |       |
